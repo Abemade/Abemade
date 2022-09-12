@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abemade
-- 👀 I’m interested in fullStackWebDeveloper, C#, and many more
-- 🌱 I’m currently learning CSS
+- 👀 I’m interested in fullStackWebDeveloper, C#, GO and many more
+- 🌱 I’m currently learning GO
 - 💞️ I’m looking to collaborate on everyone!
 - 📫 Contact me on: instagram @liksmaliks/ twitter @breadfrutt56
 
